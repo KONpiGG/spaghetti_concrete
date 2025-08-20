@@ -7,7 +7,7 @@ from .prompt import prompt
 @register(
     "spaghetti_concrete",
     "KONpiGG",
-    "一本正经胡说八道生成器",
+    "一本正经胡说八道生成器 —— 基于“意大利面混凝土理论”，输出跨领域因果谬误文案。",
     "1.0.0",
     "https://github.com/KONpiGG/spaghetti_concrete",
 )
