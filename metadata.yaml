@@ -1,5 +1,5 @@
 name: spaghetti_concrete # 这是你的插件的唯一识别名。
 desc: 一本正经胡说八道生成器 —— 基于意大利面混凝土理论。 # 插件简短描述
 version: v1.0.0 # 插件版本号。格式：v1.1.1 或者 v1.1
-author: OpenAI # 作者
-repo: https://github.com/example/spaghetti_concrete # 插件的仓库地址
+author: KONpiGG # 作者
+repo: https://github.com/KONpiGG/spaghetti_concrete # 插件的仓库地址

@@ -6,10 +6,10 @@ from prompt import prompt
 
 @register(
     "spaghetti_concrete",
-    "OpenAI",
+    "KONpiGG",
     "一本正经胡说八道生成器",
     "1.0.0",
-    "https://github.com/example/spaghetti_concrete",
+    "https://github.com/KONpiGG/spaghetti_concrete",
 )
 class SpaghettiConcrete(Star):
     """基于“意大利面混凝土理论”的荒谬因果链生成器"""
