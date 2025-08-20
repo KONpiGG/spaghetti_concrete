@@ -1,9 +1,9 @@
-# helloworld
+# SpaghettiConcrete
 
-AstrBot 插件模板
+一本正经胡说八道生成器 —— 基于“意大利面混凝土理论”，输出跨领域因果谬误文案。
 
-A template plugin for AstrBot plugin feature
+## 指令
 
-# 支持
+- `/sc <关键词>` 或 `/spaghetti <关键词>`：以关键词为因果链起点生成伪学术推理；省略关键词则随机选择起点。
 
-[帮助文档](https://astrbot.app)
+本插件依赖 AstrBot 的大模型功能，请确保已正确配置。
