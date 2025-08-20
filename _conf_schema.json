@@ -1,0 +1,8 @@
+{
+  "provider_id": {
+    "description": "LLM provider ID to use",
+    "type": "string",
+    "hint": "留空则使用当前默认提供商",
+    "default": ""
+  }
+}
